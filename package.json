@@ -1,0 +1,13 @@
+{
+  "name": "jigyasajunction-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "npx tsc",
+    "start": "node dist/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
